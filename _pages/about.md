@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>syin@pks.mpg.de</p>
+    <p>postdoc @ MPI PKS</p>
+    <p>Dresden, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Marie Skłodowska-Curie Postdoctoral Fellow at MPI PKS working with Prof. [Frank Jülicher](https://www.pks.mpg.de/biological-physics/frank-juelicher). Previously, I was a postdoctoral researcher working with Prof. [L. Mahadevan](https://softmath.seas.harvard.edu/) at Harvard University. I obtained my PhD and Bachelor’s degree in Mechanics under the supervision of Prof. [Xi-Qiao Feng](https://scholar.google.com/citations?hl=en&user=Hpg2NCcAAAAJ) at Tsinghua University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in the physics of active matter and biological morphogenesis, particularly in understanding how the interplay of gene expression, signals and cell and tissue mechanics generate functional morphologies. My research combines theoretical and computational tools in close collaboration with experimentalists to explore morphogenesis in multiscale biological systems. These include growth-induced surface buckling in the brain cortex, intestinal tract and tumors; phase separation in active solids; and three-dimensional chiral morphodynamics of the cell cortex. Recently, I am studying epithelial morphogenesis of the fly wing disc and the neuromechanics of peristaltic dynamics in tubular structures. 
