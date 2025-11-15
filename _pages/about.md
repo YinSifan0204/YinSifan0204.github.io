@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -10,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>syin@pks.mpg.de</p>
-    <p>postdoc @ MPI PKS</p>
+    <p>postdoc at MPIPKS</p>
     <p>Dresden, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
