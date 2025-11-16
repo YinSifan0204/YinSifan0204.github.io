@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/sample-posts/2025/03/26/plotly.html";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
@@ -408,8 +397,8 @@ ninja.data = [{
             },},{id: "news-my-phd-thesis-bio-chemo-mechanical-theory-of-active-matter-obtains-outstanding-phd-dissertation-award-awarded-to-10-dissertations-annually-across-china-by-chinese-society-of-theoretical-and-applied-mechanics",
           title: 'My PhD Thesis “Bio-chemo-mechanical theory of active matter” obtains Outstanding PhD Dissertation Award...',
           description: "",
-          section: "News",},{id: "news-i-am-honored-the-marie-skłodowska-curie-action-msca-postdoctoral-fellowship",
-          title: 'I am honored the Marie Skłodowska-Curie Action (MSCA) Postdoctoral fellowship!',
+          section: "News",},{id: "news-i-am-honored-be-awarded-the-marie-skłodowska-curie-action-msca-postdoctoral-fellowship",
+          title: 'I am honored be awarded the Marie Skłodowska-Curie Action (MSCA) Postdoctoral fellowship.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
