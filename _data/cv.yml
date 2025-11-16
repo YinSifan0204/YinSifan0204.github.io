@@ -15,15 +15,20 @@
       institution: Tsinghua University, Beijing, China
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Supervisor Xi-Qiao Feng
+        - PhD Thesis Bio-­chemo-­mechanical Theory of Active Soft Matter
+    - title: visiting PhD
+      institution: Harvard University, Boston, US
+      year: 2019-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor L. Mahadevan
+        - Projects Apple cusp formation, chick gut surface buckling   
+    - title: Bachelor of Science
+      institution: Tsinghua University, Beijing, China
+      year: 2012-2016
+      description:
+        - Major Mechanics
+        - 
 
 - title: Experience
   type: time_table
@@ -58,12 +63,7 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
 
 - title: Honors and Awards
   type: time_table
