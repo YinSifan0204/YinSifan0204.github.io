@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I am honored be awarded the Marie Skłodowska-Curie Action (MSCA) Postdoctoral fellowship.
+I am honored to be awarded the Marie Skłodowska-Curie Action (MSCA) Postdoctoral fellowship.
 
