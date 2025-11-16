@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Marie Skłodowska-Curie Postdoctoral Fellow, MPI-PKS, Nöthnitzer Straße 38, 01187, Dresden, Germany
+subtitle: Marie Skłodowska-Curie Postdoctoral Fellow, MPI-PKS
 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Contact</p>
     <p>syin@pks.mpg.de</p>
    
 
@@ -24,6 +25,6 @@ announcements:
 
 ---
 
-I am a Marie Skłodowska-Curie Postdoctoral Fellow at MPI PKS working with Prof. [Frank Jülicher](https://www.pks.mpg.de/biological-physics/frank-juelicher). Previously, I was a postdoctoral researcher working with Prof. [L. Mahadevan](https://softmath.seas.harvard.edu/) at Harvard University. I obtained my PhD and Bachelor’s degree in Mechanics under the supervision of Prof. [Xi-Qiao Feng](https://scholar.google.com/citations?hl=en&user=Hpg2NCcAAAAJ) at Tsinghua University.
+I am a Marie Skłodowska-Curie Postdoctoral Fellow working with Prof. [Frank Jülicher](https://www.pks.mpg.de/biological-physics/frank-juelicher) at MPI PKS. Previously, I was a postdoctoral researcher working with Prof. [L. Mahadevan](https://softmath.seas.harvard.edu/) at Harvard University. I obtained my PhD and Bachelor’s degree in Mechanics under the supervision of Prof. [Xi-Qiao Feng](https://scholar.google.com/citations?hl=en&user=Hpg2NCcAAAAJ) at Tsinghua University.
 
-My research interests lie in the physics of active matter and biological morphogenesis, particularly in understanding how the interplay of gene expression, signals and cell and tissue mechanics generate functional morphologies. My research combines theoretical and computational tools in close collaboration with experimentalists to explore morphogenesis in multiscale biological systems. These include growth-induced surface buckling in the brain cortex, intestinal tract and tumors; phase separation in active solids; and three-dimensional chiral morphodynamics of the cell cortex. Recently, I am studying epithelial morphogenesis of the fly wing disc and the neuromechanics of peristaltic dynamics in tubular structures. 
+My research interests lie in the physics of active matter and biological morphogenesis, particularly in understanding how the interplay of gene expression, signals and cell and tissue mechanics generate functional morphologies. My research combines theoretical and computational tools in close collaboration with experimentalists to explore morphogenesis in multiscale biological systems. These include growth-induced surface buckling in the brain cortex, intestinal tract and tumors; phase separation in active solids; and three-dimensional chiral morphodynamics of the cell cortex. Recently, I am studying epithelial morphogenesis of the fly wing disc, the neuromechanics of peristaltic dynamics in tubular structures, eye disc furrow propagating, and left-right symmetry breaking of C.elegans at four-cell stage. 
