@@ -21,10 +21,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+
 ---
 
 I am a Marie Skłodowska-Curie Postdoctoral Fellow at MPI PKS working with Prof. [Frank Jülicher](https://www.pks.mpg.de/biological-physics/frank-juelicher). Previously, I was a postdoctoral researcher working with Prof. [L. Mahadevan](https://softmath.seas.harvard.edu/) at Harvard University. I obtained my PhD and Bachelor’s degree in Mechanics under the supervision of Prof. [Xi-Qiao Feng](https://scholar.google.com/citations?hl=en&user=Hpg2NCcAAAAJ) at Tsinghua University.
