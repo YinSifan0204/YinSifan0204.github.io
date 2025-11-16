@@ -382,8 +382,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-honored-to-be-awarded-the-marie-skłodowska-curie-action-msca-postdoctoral-fellowship",
           title: 'I am honored to be awarded the Marie Skłodowska-Curie Action (MSCA) Postdoctoral fellowship....',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-chemomechanical-active-shell-model",
+          title: 'Chemomechanical active shell model',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
