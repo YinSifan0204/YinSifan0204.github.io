@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chemomechanical active shell model
-description: with background image
+title: Active shell model
+description: chemomechanical coupling
 img: assets/img/Active_shell.png
 importance: 1
 category: work
