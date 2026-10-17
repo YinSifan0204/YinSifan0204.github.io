@@ -1411,3 +1411,12 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Custom: larger description text (project page subtitle and project cards)
+.post-description {
+  font-size: 1.15rem;
+}
+
+.projects .card .card-text {
+  font-size: 1rem;
+}
