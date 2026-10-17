@@ -25,6 +25,4 @@ related_publications: true
     </div>
 </div>
 
-### Three-dimensional chiral morphodynamics of chemomechanical active shells
-
    Biological morphogenesis involves rich symmetry-breaking events and orchestrated morphodynamics where chemical signaling and mechanical deformation are coupled. We propose a chemomechanical active elastic shell theory, which incorporates biochemical reaction–diffusion with mechanical feedback, to study the three-dimensional (3D) chiral pattern formation and evolution of the cell cortex. We show that the activity-driven chemomechanical bifurcations result in the formation of spiral waves, oscillations, traveling waves, and standing waves, accompanied by 3D large deformation. Our study demonstrates the significance of chemomechanical coupling in modulating pattern dynamics of cells and also provides a theoretical framework to explore 3D chemomechanical morphogenesis of other shell-like multicellular structures such as epithelial sheets, blastospheres, and organoids.
