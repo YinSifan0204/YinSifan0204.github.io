@@ -33,9 +33,9 @@ Send your CV, transcripts and a short statement of research interests to **syin@
 
 <div class="row justify-content-sm-center mt-4">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/phd_recruitment_poster.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Postdoc and PhD recruitment poster" %}
+        {% include figure.liquid loading="eager" path="assets/img/PhD_positions_poster.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Postdoc and PhD recruitment poster" %}
     </div>
 </div>
 <div class="caption">
-    Recruitment poster — <a href="/assets/pdf/phd_recruitment_poster.pdf">download PDF</a>
+    Recruitment poster — <a href="/assets/pdf/PhD_positions_poster.pdf">download PDF</a>
 </div>
