@@ -10,7 +10,7 @@ related_publications: true
 ### Bio-chemo-mechanical theory of active shells
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/active shell model illustration.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/active_shell_model_illustration.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
