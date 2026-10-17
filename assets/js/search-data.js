@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-join-us",
           title: "join us",
-          description: "PhD positions starting Fall 2027 — Active matter morph-YIN, LAI, CENTURI, Marseille",
+          description: "Postdoc and PhD positions starting Fall 2027 — Active matter morph-YIN Group, LAI, CENTURI, Marseille",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
