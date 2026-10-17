@@ -5,7 +5,6 @@ description: Differential growth
 img: assets/img/tube.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 
