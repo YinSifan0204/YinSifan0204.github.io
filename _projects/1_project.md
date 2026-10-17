@@ -7,17 +7,18 @@ importance: 1
 category: work
 related_publications: true
 ---
-
+### Bio-chemo-mechanical theory of active shells
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/active shell model illustration.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
-### Bio-chemo-mechanical theory of active shells
 
   Living thin structures such as cell cortex layers and multicellular sheets often exhibit intricate morphologies and dynamic behaviors, including Turing’s pattern, periodic oscillation, and wave propagation. In this paper, we present a bio-chemo-mechanical theoretical framework to model these morphogenetic processes and to unveil the underlying mechanisms. On the basis of the nonlinear non-Euclidean shell model, we formulate an active solid shell theory which couples the excitation and transmission of biochemical signals with mechanical forces. Through linear stability analysis, it is found that Hopf and Pitchfork bifurcations induced by chemomechanical feedback are two primary mechanisms that may trigger pattern formation. A numerical scheme is developed to solve the coordinated mechanical and biochemical fields in the active shell system and thus, to track the dynamic pattern evolution beyond the stationary state. For illustration, the proposed theory is applied to starfish oocytes and to decipher the synchronous protein dynamics and surface contraction pattern emerging in the anaphase of meiosis, which involves both global oscillations and traveling waves. This study underscores the crucial role of bio-chemo-mechanical feedback in driving morphogenetic pattern evolution.
 
+
+### Three-dimensional chiral morphodynamics of chemomechanical active shells
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/publication_preview/pnas.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
