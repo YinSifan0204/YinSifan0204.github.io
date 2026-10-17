@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-join-us",
+          title: "join us",
+          description: "PhD positions starting Fall 2027 — Active matter morph-YIN, LAI, CENTURI, Marseille",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/join/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -63,7 +70,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-honored-to-be-awarded-the-marie-skłodowska-curie-action-msca-postdoctoral-fellowship",
           title: 'I am honored to be awarded the Marie Skłodowska-Curie Action (MSCA) Postdoctoral fellowship....',
           description: "",
-          section: "News",},{id: "news-i-am-pleased-to-announce-that-i-will-become-a-cnrs-chargé-de-recherche-cr-starting-february-1-2027-at-lai-centuri-in-marseille-luminy-campus-i-am-also-recruiting-phd-students-to-start-in-fall-2027",
+          section: "News",},{id: "news-i-am-pleased-to-announce-that-i-will-become-a-cnrs-chargé-de-recherche-cr-starting-february-1-2027-at-lai-centuri-in-marseille-luminy-campus-i-am-also-recruiting-phd-students-to-start-in-fall-2027-see-join-us",
           title: 'I am pleased to announce that I will become a CNRS Chargé de...',
           description: "",
           section: "News",},{id: "projects-active-shell-model",
