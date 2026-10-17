@@ -76,6 +76,11 @@ ninja.data = [{
           description: "Differential growth",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
+            },},{id: "projects-chiral-active-shell",
+          title: 'Chiral active shell',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project.html";
             },},{
         id: 'social-email',
         title: 'email',
